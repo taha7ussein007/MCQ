@@ -1,0 +1,184 @@
+<Questions>
+<Question id="0">
+<QuestionText>The _______ is the physical path over which a message travels.</QuestionText>
+<Answer valid="false">Protocol</Answer>
+<Answer valid="false">Signal</Answer>
+<Answer valid="true">Medium</Answer>
+<Answer valid="true">Answer c</Answer>
+</Question>
+<Question id="1">
+<QuestionText>_______ encoding has a transition at the beginning of each 0 bit.</QuestionText>
+<Answer valid="false">RZ</Answer>
+<Answer valid="true">Answer d</Answer>
+<Answer valid="false">Manchester</Answer>
+<Answer valid="true">Differential Manchester</Answer>
+</Question>
+<Question id="2">
+<QuestionText>PCM is an example of _______ conversion.</QuestionText>
+<Answer valid="true">analog-to-digital</Answer>
+<Answer valid="false">digital-to-analog</Answer>
+<Answer valid="false">analog-to-analog</Answer>
+<Answer valid="true">Answer a</Answer>
+</Question>
+<Question id="3">
+<QuestionText>The Nyquist theorem specifies the minimum sampling rate to be_______.</QuestionText>
+<Answer valid="false">equal to the lowest frequency of a signal</Answer>
+<Answer valid="false">twice the bandwidth of a signal</Answer>
+<Answer valid="true">twice the highest frequency of a signal</Answer>
+<Answer valid="true">Answer c</Answer>
+</Question>
+<Question id="4">
+<QuestionText>Which of the following encoding methods does not provide for synchronization?</QuestionText>
+<Answer valid="true">NRZ-L</Answer>
+<Answer valid="true">All above</Answer>
+<Answer valid="false">NRZ-I</Answer>
+<Answer valid="false">Manchester</Answer>
+</Question>
+<Question id="5">
+<QuestionText>Which quantization level results in a more faithful reproduction of the signal?</QuestionText>
+<Answer valid="false">32</Answer>
+<Answer valid="false">16</Answer>
+<Answer valid="true">16/2</Answer>
+<Answer valid="true">8</Answer>
+</Question>
+<Question id="6">
+<QuestionText>IEEE has defined the specifications for a wireless LAN, called _______.</QuestionText>
+<Answer valid="false">IEEE 802.3</Answer>
+<Answer valid="true">Institute of Electrical and Electronics Engineers 802.11 Protocol</Answer>
+<Answer valid="true">IEEE 802.11</Answer>
+<Answer valid="false">Institute of Electrical and Electronics Engineers 802.2 Protocol</Answer>
+</Question>
+<Question id="7">
+<QuestionText>___ is made of stationary or mobile wireless stations and an optional central base station, known as the access point (AP).</QuestionText>
+<Answer valid="false">ESS</Answer>
+<Answer valid="true">BSS</Answer>
+<Answer valid="true">Basic service set</Answer>
+<Answer valid="false">none of the above</Answer>
+</Question>
+<Question id="8">
+<QuestionText>IEEE 802.11g, has a data rate of _____ Mbps.</QuestionText>
+<Answer valid="false">1</Answer>
+<Answer valid="false">2</Answer>
+<Answer valid="true">11</Answer>
+<Answer valid="true">Answer C</Answer>
+</Question>
+<Question id="9">
+<QuestionText>The IEEE 802.11 wireless LANs use ________ types of frames.</QuestionText>
+<Answer valid="true">more than zero</Answer>
+<Answer valid="false">5</Answer>
+<Answer valid="false">6</Answer>
+<Answer valid="true"> none of the above</Answer>
+</Question>
+<Question id="10">
+<QuestionText>Bluetooth is a _______ technology that connects devices (called gadgets) in a small area.</QuestionText>
+<Answer valid="false">Cable Based</Answer>
+<Answer valid="false">Satalite Based</Answer>
+<Answer valid="true">Wirless </Answer>
+<Answer valid="true">low communication range</Answer>
+</Question>
+<Question id="11">
+<QuestionText>A Bluetooth network is called a ________.</QuestionText>
+<Answer valid="true">piconet</Answer>
+<Answer valid="false">scatternet</Answer>
+<Answer valid="false">bluenet</Answer>
+<Answer valid="true">Answer A</Answer>
+</Question>
+<Question id="12">
+<QuestionText>The Internet model consists of _______ layers.</QuestionText>
+<Answer valid="false">Three</Answer>
+<Answer valid="true">Five</Answer>
+<Answer valid="false">seven</Answer>
+<Answer valid="true">Answer b</Answer>
+</Question>
+<Question id="13">
+<QuestionText>The process-to-process delivery of the entire message is the responsibility of the _______ layer.</QuestionText>
+<Answer valid="false">Network</Answer>
+<Answer valid="true">Transport</Answer>
+<Answer valid="true">Answer b</Answer>
+<Answer valid="false">Physical</Answer>
+</Question>
+<Question id="14">
+<QuestionText>The _______ layer is the layer closest to the transmission medium.</QuestionText>
+<Answer valid="true">Physical</Answer>
+<Answer valid="false">Data link</Answer>
+<Answer valid="false">Network</Answer>
+<Answer valid="true">Answer a</Answer>
+</Question>
+<Question id="15">
+<QuestionText>Mail services are available to network users through the _______ layer.</QuestionText>
+<Answer valid="false">Data link</Answer>
+<Answer valid="false">Physical</Answer>
+<Answer valid="true">Application</Answer>
+<Answer valid="true"> Answer c</Answer>
+</Question>
+<Question id="16">
+<QuestionText>As the data packet moves from the upper to the lower layers, headers are _______.</QuestionText>
+<Answer valid="true">Added</Answer>
+<Answer valid="false">Removed</Answer>
+<Answer valid="false">Rearranged</Answer>
+<Answer valid="true">Added</Answer>
+</Question>
+<Question id="17">
+<QuestionText>The _______ layer lies between the network layer and the application layer.</QuestionText>
+<Answer valid="false">Physical</Answer>
+<Answer valid="false">Data link</Answer>
+<Answer valid="true">Transport</Answer>
+<Answer valid="true">Answer c) </Answer>
+</Question>
+<Question id="18">
+<QuestionText>Transmission media are usually categorized as _______.</QuestionText>
+<Answer valid="false">fixed or unfixed</Answer>
+<Answer valid="true">guided or unguided</Answer>
+<Answer valid="false">determinate or indeterminate</Answer>
+<Answer valid="true">Answer B</Answer>
+</Question>
+<Question id="19">
+<QuestionText>In fiber optics, the signal is _______ waves.</QuestionText>
+<Answer valid="true">light</Answer>
+<Answer valid="true">all above</Answer>
+<Answer valid="false">infrared</Answer>
+<Answer valid="false">very low-frequency</Answer>
+</Question>
+<Question id="20">
+<QuestionText>In an optical fiber, the inner core is _______ the cladding.</QuestionText>
+<Answer valid="false">another name for</Answer>
+<Answer valid="true">the last choice</Answer>
+<Answer valid="false">less dense than</Answer>
+<Answer valid="true">denser than</Answer>
+</Question>
+<Question id="21">
+<QuestionText>________ cable consists of two insulated copper wires twisted together.</QuestionText>
+<Answer valid="false">Coaxial</Answer>
+<Answer valid="false">Fiber-optic</Answer>
+<Answer valid="true">Twisted-pair</Answer>
+<Answer valid="true">Answer C</Answer>
+</Question>
+<Question id="22">
+<QuestionText>Microwaves are _________.</QuestionText>
+<Answer valid="false">omnidirectional</Answer>
+<Answer valid="true">unidirectional</Answer>
+<Answer valid="true">above answer</Answer>
+<Answer valid="false">none of the above</Answer>
+</Question>
+<Question id="23">
+<QuestionText>Radio waves are _________.</QuestionText>
+<Answer valid="true">omnidirectional</Answer>
+<Answer valid="false">unidirectional</Answer>
+<Answer valid="false">bidirectional</Answer>
+<Answer valid="true">answer A</Answer>
+</Question>
+<Question id="24">
+<QuestionText>______ substitutes eight consecutive zeros with 000VB0VB.</QuestionText>
+<Answer valid="false">B4B8</Answer>
+<Answer valid="false">HDB3</Answer>
+<Answer valid="true">B8ZS</Answer>
+<Answer valid="true">answer C</Answer>
+</Question>
+<Question id="25">
+<QuestionText>eah el nezaaaaaaam b2aaaaaa .............?</QuestionText>
+<Answer valid="true">ok</Answer>
+<Answer valid="true">tmam</Answer>
+<Answer valid="false">we7sh</Answer>
+<Answer valid="false">zeft el feft</Answer>
+</Question>
+</Questions>
